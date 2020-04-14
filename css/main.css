@@ -10,5 +10,45 @@ table {
 
 th, td {
   border: 1px solid #000;
-  padding: 0.75em;
+  padding: 4em;
+}
+
+p {
+  margin-bottom: .5em;
+}
+
+.number {
+  text-align: right;
+}
+
+.vostok, .kosmos, .india, .explorer-18 {
+  padding: .5em;
+  color: #333;
+  background-color: #f2f2f2;
+  border: 2px solid #666;
+  border-radius: 8px;
+}
+
+.rememberance {
+  padding: .5em;
+  color: #b92828;
+  background-color: #f2bcbc;
+  border: 2px solid #991919;
+  border-radius: 8px;
+}
+
+.surtsey, .altitude {
+  padding: .5em;
+  color: #51603f;
+  background-color: #d1e0bf;
+  border: 2px solid #6b7354;
+  border-radius: 8px;
+}
+
+.death, .doctor-who {
+  padding: .5em;
+  color: #38448e;
+  background-color: #d2d6f0;
+  border: 2px solid #1d38da;
+  border-radius: 8px;
 }
